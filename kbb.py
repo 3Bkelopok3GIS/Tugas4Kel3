@@ -54,6 +54,11 @@ folium.Market(
     popup='Wangunharja',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+folium.Market(
+    Location=[-6.824398, 107.662918],
+    popup='Cibodas',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
 
 
