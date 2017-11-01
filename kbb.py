@@ -159,3 +159,56 @@ folium.Market(
     popup='Pasirangin',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m),
+folium.Market(
+    Location=[-6.835647, 107.428444],
+    popup='Tebing Citatah 48',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.836757, 107.431204],
+    popup='Masjid Al Hikmah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.834746, 107.425074],
+    popup='Rumah Makan Pulen 2 Cibogo Citata',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832999, 107.426071],
+    popup='Warung Mas Wasito',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832147, 107.428281],
+    popup='Alfamart Citatah Pumarin N760',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.833973, 107.427777],
+    popup='Toko Hd',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831843, 107.434681],
+    popup='TB Gani Jaya',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832860, 107.435690],
+    popup='WARUNG BASO',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831414, 107.437177],
+    popup='CV. HEGAR JAYA',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.829328, 107.437609],
+    popup='Bukit Ashar. PT',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+
+m
