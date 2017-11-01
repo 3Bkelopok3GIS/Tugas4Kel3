@@ -59,7 +59,55 @@ folium.Market(
     popup='Cibodas',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-
-
+folium.Market(
+    Location=[-6.850646, 107.629963],
+    popup='Mekarwangi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.843488, 107.586331],
+    popup='Cigugur Girang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.874166, 107.570538],
+    popup='Sariwangi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.851669, 107.556805],
+    popup='Padaasih',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.828489, 107.545132],
+    popup='Pakuhaji',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.847578, 107.527966],
+    popup='Ngamprah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.880301, 107.512173],
+    popup='Laksanamekar',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.903478, 107.510113],
+    popup='Batujajar Tim',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.933471, 107.519039],
+    popup='Selacau',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.954600, 107.516293],
+    popup='Situwangi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
     
