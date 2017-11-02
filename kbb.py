@@ -364,3 +364,58 @@ folium.Market(
     popup='Karyamuki',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+folium.Market(
+    Location=[-6.802938, 107.583420],
+    popup='Villa Istana Bunga',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.801745, 107.583281],
+    popup='Detasemen Kavaleri berkuda',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.799295, 107.577509],
+    popup='Curug Rainbow',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.798496, 107.572617],
+    popup='Warung Makan Sans',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.798379, 107.569355],
+    popup='Saung Kusumah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.861235, 107.514733],
+    popup='Toko Voucher',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.861054, 107.519894],
+    popup='Borma Permata',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.854407, 107.516203],
+    popup='Cilame Futsal',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.851478, 107.526074],
+    popup='Masjid Al - Muhajirin',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.854162, 107.532586],
+    popup='SDN 1 Ciledug',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.794988, 107.648979],
+    popup='Kopi Luwak Cikole',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
