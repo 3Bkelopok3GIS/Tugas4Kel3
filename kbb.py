@@ -259,3 +259,58 @@ folium.Market(
     popup='Cihampelas',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+folium.Market(
+    Location=[-6.867493, 107.570308],
+    popup='SMK Insan Mandiri',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.859557, 107.565599],
+    popup='Sekolah Kampoeng Quran',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.857863, 107.579020],
+    popup='Taman Pendidikan Firdaus Percikan Iman',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.852963, 107.573055],
+    popup='SMP & SMK IT Nurul Imam',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.847680, 107.580780],
+    popup='MI Nurul Huda',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.846956, 107.591981],
+    popup='Mutiara Nusantara',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.847850, 107.580093],
+    popup='SMP Negeri 2 Parongpong',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.841075, 107.573914],
+    popup='Sekolah Tinggi Alkitab Tiranus',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.842652, 107.561511],
+    popup='SDN BUDI ASIH',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.837794, 107.584471],
+    popup='Yayasan Eco Pesantren Daarut Tauhiid',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.813293, 107.600821],
+    popup='SMP Kahuripan',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
