@@ -314,3 +314,53 @@ folium.Market(
     popup='SMP Kahuripan',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+folium.Market(
+    Location=[-6.975389, 107.252995],
+    popup='Bojongsalam',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.005376, 107.252995],
+    popup='Cibedug',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.036044, 107.260548],
+    popup='Bunijaya',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.057169, 107.276340],
+    popup='Sirnajaya',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.057169, 107.310673],
+    popup='Gununghalu',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.105549, 107.376591],
+    popup='Mekarwangi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.042177, 107.393070],
+    popup='Wangunsari',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.040814, 107.457615],
+    popup='Buninagara',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.015599, 107.466541],
+    popup='Naggereng',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.017644, 107.471348],
+    popup='Karyamuki',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
