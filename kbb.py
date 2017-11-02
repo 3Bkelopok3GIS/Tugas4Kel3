@@ -209,6 +209,53 @@ folium.Market(
     popup='Bukit Ashar. PT',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-
-
-m
+folium.Market(
+    Location=[-6.999924, 107.186390],
+    popup='Sukamanah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.758602, 107.330586],
+    popup='Waduk Citara',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.848601, 107.326466],
+    popup='Haurwangi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.909954, 107.304493],
+    popup='Cibitung',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.941309, 107.448689],
+    popup='Cililin',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.999924, 107.483021],
+    popup='Mukapayung',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.047629, 107.443195],
+    popup='Buninagara',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-7.092603, 107.408863],
+    popup='Lebakmuncang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.851328, 107.612110],
+    popup='Cidadap',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.954941, 107.518726],
+    popup='Cihampelas',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
