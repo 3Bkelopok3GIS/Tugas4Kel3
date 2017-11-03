@@ -159,6 +159,7 @@ folium.Market(
     popup='Pasirangin',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m),
+
 folium.Market(
     Location=[-6.835647, 107.428444],
     popup='Tebing Citatah 48',
@@ -209,6 +210,7 @@ folium.Market(
     popup='Bukit Ashar. PT',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
 folium.Market(
     Location=[-6.999924, 107.186390],
     popup='Sukamanah',
@@ -519,3 +521,57 @@ folium.Market(
     popup='Sinarjaya',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.Market(
+    Location=[-6.833487, 107.437957],
+    popup='Tebing Cilio Camp',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832918, 107.438150],
+    popup='SDN Gunung Masigit',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832513, 107.437941],
+    popup='Sony Minang RM MASAKAN PADA',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831698, 107.436771],
+    popup='Citra Onix',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.828117, 107.435101],
+    popup='Garasi Indominerals',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.827227, 107.435541],
+    popup='Tebing Masigit',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.825827, 107.435192],
+    popup='Homestay Wahana Indianacamp',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.825464, 107.435948],
+    popup='Indianacamp',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.825550, 107.437043],
+    popup='Sekretariat Pokdarwis Stone Garde',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.824773, 107.438146],
+    popup='Stone Garden Citatah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+m
+#m nya jangan di hapus yaa
