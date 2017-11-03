@@ -617,6 +617,56 @@ folium.Market(
     popup='Celak',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+folium.Market(
+    Location=[-6.829402, 107.595533],
+    popup='Kampung Gahjah Wonderland',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.829800, 107.594990],
+    popup='Tahu Gejrot Mang Sulim',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.828639, 107.595360],
+    popup='Villa Diamond',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831484, 107.595074],
+    popup='Sugar & Ice Cream',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831749, 107.595025],
+    popup='Maja House',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831413, 107.596761],
+    popup='Cihideung Park',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832649, 107.596631],
+    popup='Black Bird Hotel',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.835027, 107.595300],
+    popup='Surabi Bu Chien',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.836814, 107.595151],
+    popup='Hotel Amoory & Cafe',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.827851, 107.594373],
+    popup='Villa Gajah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
     
 	
