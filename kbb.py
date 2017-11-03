@@ -419,3 +419,53 @@ folium.Market(
     popup='Kopi Luwak Cikole',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+folium.Market(
+    Location=[-6.871950, 107.513713],
+    popup='Masjid Al-Barokah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.853544, 107.514743],
+    popup='Masjid Jabal Nur',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.855589, 107.527446],
+    popup='Masjid Jabal Rohmah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.872622, 107.565897],
+    popup='Masjid Al-Muhajirin',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.873985, 107.575510],
+    popup='Masjid Lukmanul Hakim',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.867850, 107.568987],
+    popup='Masjid Jami Al Hikmah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.864441, 107.579630],
+    popup='Masjid Al IKHLAS',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.853874, 107.568301],
+    popup='Masjid At Tawajun',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.859328, 107.573107],
+    popup='Masjid Nurul Iman',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.851829, 107.585810],
+    popup='Al Hidayah Setiabudi Regensi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
