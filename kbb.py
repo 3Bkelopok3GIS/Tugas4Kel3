@@ -617,6 +617,7 @@ folium.Market(
     popup='Celak',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
     
 	
 	
