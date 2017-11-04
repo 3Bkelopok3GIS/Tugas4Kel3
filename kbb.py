@@ -668,8 +668,58 @@ folium.Market(
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
-    
+folium.Market(
+    Location=[-6.823480, 107.436671],
+    popup='Tukang Es Kelapa Goa Pawon',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.823355, 107.436180],
+    popup='Bale Riung Pariwisata Gua Pawon',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.823229, 107.436689],
+    popup='Gua Pawon',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.819467, 107.433189],
+    popup='Izral Cell',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.818795, 107.431953],
+    popup='Masjid Mekar Mulya',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.815513, 107.433949],
+    popup='Toko Almira Cipatat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.825624, 107.430529],
+    popup='CV.FITRIINDO LITE',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831817, 107.450973],
+    popup='Kios Peuyeum Bapak A Rohana',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831199, 107.449942],
+    popup='Cape Coffee FJM',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.831808, 107.448856],
+    popup='PT. Batumas Mekar Agung (BAMA)',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)   
 	
-	
+
+
 m
 #m nya jangan di hapus yaa
