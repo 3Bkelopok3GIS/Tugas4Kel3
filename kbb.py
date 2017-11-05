@@ -718,8 +718,60 @@ folium.Market(
     popup='PT. Batumas Mekar Agung (BAMA)',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)   
-	
+	folium.Market(
+    Location=[-6.794740, 107.399248],
+    popup='Sumurbandung',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-6.969936, 107.320971],
+    popup='Cintaasih',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-6.794740, 107.431521],
+    popup='Cirawamekar',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-6.822012, 107.456926],
+    popup='Ciburuy',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-6.962439, 107.470659],
+    popup='Karangtanjung',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-7.008102, 107.441820],
+    popup='Nanggerang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-6.936538, 107.317537],
+    popup='Cibenda',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-6.966528, 107.353930],
+    popup='Neglasari',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-6.990383, 107.387575],
+    popup='Puncaksari',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    folium.Market(
+    Location=[-7.000606, 107.373842],
+    popup='Cicangkang Girang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
 
+
+
+    
 m
 #m nya jangan di hapus yaa
