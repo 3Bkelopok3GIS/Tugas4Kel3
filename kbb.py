@@ -965,6 +965,53 @@ folium.Market(
     popup='Gadobangkong',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.Market(
+    Location=[-6.856127, 107.498685],
+    popup='Kost Pak Haji Syarif',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.855857, 107.497824],
+    popup='Jl. Raya Caringin No.355',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.856085, 107.497782],
+    popup='PT Indofood CBP Sukses Makmur',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.855595, 107.498054],
+    popup='SPBU 34-40513 Caringin, Padalara',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.852815, 107.498173],
+    popup='Al Azhar Syifa Budi Parahyangan',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.850669, 107.495741],
+    popup='Holland Bakery',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.852190, 107.493887],
+    popup='Puspa Iptek Sundial',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.849543, 107.492696],
+    popup='SMP Negeri 1 Padalarang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.847710, 107.492031],
+    popup='Apotek Jaya Medika',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
     
 m
 #m nya jangan di hapus yaa
