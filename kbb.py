@@ -820,7 +820,51 @@ folium.Market(
 ).add_to(m)
 
 
-
+folium.Market(
+    Location=[-6.832084, 107.448438],
+    popup='Sekretariat FOX Riders Indonesia',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832170, 107.441289],
+    popup='Jaya Teknik Mandiri',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832973, 107.438944],
+    popup='Balai Desa Gunungmasigit',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.841146, 107.485329],
+    popup='Masjid Besar Padalarang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.840891, 107.485769],
+    popup='Ps. Tagog Padalarang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.839464, 107.487083],
+    popup='Padalarang Motor',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.838750, 107.487533],
+    popup='PLN Padalarang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.837600, 107.488145],
+    popup='RM.CIGANEA',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.838026, 107.487845],
+    popup='Polsek Padalarang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
     
 m
