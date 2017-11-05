@@ -915,10 +915,56 @@ folium.Market(
     popup='Cihanjung',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-
-    
-
-
+folium.Market(
+    Location=[-6.791331, 107.510487],
+    popup='Sedangmekar',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.802240, 107.485767],
+    popup='Togagapu',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.809058, 107.454182],
+    popup='Cempakamekar',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.852691, 107.438389],
+    popup='Gunungmasigit',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.855418, 107.376591],
+    popup='Ciptaharja',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.805308, 107.520958],
+    popup='Pasirlungu',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.832409, 107.491432],
+    popup='Sukatani',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.841783, 107.498813],
+    popup='Kartajaya',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.853884, 107.502590],
+    popup='Margajaya',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.869564, 107.507053],
+    popup='Gadobangkong',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
     
 m
 #m nya jangan di hapus yaa
