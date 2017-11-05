@@ -768,6 +768,56 @@ folium.Market(
     popup='Cicangkang Girang',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+folium.Market(
+    Location=[-6.865708, 107.473922],
+    popup='RS Cahya Kawaluyaan',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.864952, 107.475403],
+    popup='STIKes Santo Borromeus',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.864227, 107.477399],
+    popup='Al Irsyad Satya Islamic School',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.864696, 107.477613],
+    popup='Masjid Al Irsyad',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.865293, 107.469985],
+    popup='TKK-SDK BPK Penabur Bandung',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.868350, 107.467936],
+    popup='Cahaya Bangsa Classical School',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.871013, 107.470478],
+    popup='Bumi Pancasona Sports Club',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.872589, 107.470221],
+    popup='Damian School',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.863940, 107.479973],
+    popup='MASON PINE HOTEL',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.Market(
+    Location=[-6.857027, 107.490466],
+    popup='Bale Pare',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
 
 
