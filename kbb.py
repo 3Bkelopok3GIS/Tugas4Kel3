@@ -1042,4 +1042,6 @@ folium.Marker(
 
     
 m
-#m nya jangan di hapus yaa
+simpan(m,'4.html')
+simpan(c,'5.html')
+simpan(d,'6.html')
